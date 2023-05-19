@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://psv4.userapi.com/c237331/u452247416/docs/d46/ce731f76c9dd/IMG_6267.png?extra=IEVsyglj6nHCBKiGaSX1zrgWcl_vi8NACd3Iv8C4M_ivUaPPrMlbdkHjJt3cXnM56Aeilp1dWkNvgKPcjzw5kF8I-rpE9gvhT-2C1s3CpEaU38ZXxImoNJk63pvE9HHP05XCHnwZOCtNEg"></img>
 <!--
 **cry1s/cry1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cry1s&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cry1s&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cry1s&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=cry1s&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
